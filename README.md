@@ -32,6 +32,7 @@ I'm passionate about leveraging technology to make a tangible impact. I enjoy co
 ## 🌐 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nikunj-sonigara/)
 - [Email](mailto:nikunjsonigara987@gmail.com)
+- [Portfolio](https://nikunjsonigara.github.io/Nikunj-Sonigara-Portfolio/)
 
 Feel free to reach out to discuss tech, collaborations, or just to say hi!
 
