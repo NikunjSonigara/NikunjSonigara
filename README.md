@@ -20,7 +20,7 @@ I'm a software engineer with a penchant for innovation and problem-solving.
   - Focused on Blockchain and Flutter-based messaging applications for educational institutions
 - **Current Internship**: 
   - **SDE 1** in full-stack technology at Propelius Technology, an Indian-based startup
-  - Working on full-stack development, blockchain, and Flutter
+  - Working on full-stack development
 
 ## 📚 Additional Learning
 - Attended the **ACM Summer School in 2023**
