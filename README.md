@@ -35,6 +35,23 @@ I'm passionate about leveraging technology to make a tangible impact. I enjoy co
 
 Feel free to reach out to discuss tech, collaborations, or just to say hi!
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikunjSonigara&theme=radical&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=NikunjSonigara)
+
+
+
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikunjSonigara&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)  
+ -->
+
+
+
+
+
+
 ---
 
 Thank you for visiting my GitHub profile!
