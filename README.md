@@ -30,9 +30,10 @@ I'm a software engineer with a penchant for innovation and problem-solving.
 I'm passionate about leveraging technology to make a tangible impact. I enjoy collaborating on projects that push the boundaries of innovation.
 
 ## 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/nikunj-sonigara/)
-- [Email](mailto:nikunjsonigara987@gmail.com)
-- [Portfolio](https://nikunjsonigara.github.io/Nikunj-Sonigara-Portfolio/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikunj-sonigara/)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikunjsonigara987@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://nikunjsonigara.github.io/Nikunj-Sonigara-Portfolio/)
 
 Feel free to reach out to discuss tech, collaborations, or just to say hi!
 
