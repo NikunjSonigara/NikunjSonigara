@@ -50,7 +50,7 @@
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikunj-sonigara/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/nikunj-sonigara-471620222?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
   <a href="https://nikunjsonigara.in/">Portfolio</a> •
   <a href="mailto:nikunjsonigara987@gmail.com">Email</a>
 </p>
