@@ -1,35 +1,62 @@
-# Hey, I'm Nikunj Sonigara 👋
+<h1 align="center">Hey 👋, I'm Nikunj Sonigara</h1>
+<h3 align="center">Full Stack Developer • React • Next.js • Node.js</h3>
 
-Full Stack Developer with ~2 years of experience building web applications using React, Next.js, and Node.js.
-
----
-
-## 🚀 Tech Stack
-
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **State Management:** Redux Toolkit, RTK Query  
-- **Database:** MongoDB (basic)  
-- **Tools:** Git, Postman, REST APIs  
+<p align="center">
+  Building fast, scalable web apps with clean UI & solid backend integration.
+</p>
 
 ---
 
-## 💼 Experience
+### 👨‍💻 About Me
 
-**SDE 1 — Propelius Technology**
-- Built and maintained scalable frontend features  
-- Integrated REST APIs and handled state using RTK Query  
-- Improved performance and user experience  
+- 💼 Working as **SDE 1 at Propelius Technology**
+- ⚛️ Strong focus on **React & Next.js ecosystem**
+- 🔄 Experienced with **Redux Toolkit & RTK Query**
+- 🔗 Comfortable building & integrating **REST APIs with Node.js**
+- 📱 Passionate about **clean UI, performance & user experience**
+- 🧠 Solved **2000+ DSA problems** across platforms
+- 🚀 Always learning and improving through real-world projects
 
 ---
 
-## 🧠 DSA
+### 🚀 Tech Stack
 
-- Solved **2000+ problems** (LeetCode, GFG, CodeChef)  
+<p>
+  <b>Frontend:</b> React • Next.js • TypeScript • Tailwind <br/>
+  <b>Backend:</b> Node.js • Express <br/>
+  <b>State:</b> Redux Toolkit • RTK Query <br/>
+  <b>Database:</b> MongoDB (basic) <br/>
+  <b>Tools:</b> Git • Postman • REST APIs
+</p>
+
+---
+
+### 💼 Experience
+
+**SDE 1 @ Propelius Technology**
+- Built scalable frontend features & reusable components  
+- Integrated APIs and managed state with RTK Query  
+- Focused on performance & smooth user experience  
+
+---
+
+### 🧠 DSA
+
+- Solved **2000+ problems** across platforms  
 - ⭐ CodeChef 2-star  
 
 ---
 
-## 🌐 Connect
+### 🌐 Connect
 
-[LinkedIn](https://www.linkedin.com/in/nikunj-sonigara/) • [Portfolio](https://nikunjsonigara.in/) • [Email](mailto:nikunjsonigara987@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikunj-sonigara/">LinkedIn</a> •
+  <a href="https://nikunjsonigara.in/">Portfolio</a> •
+  <a href="mailto:nikunjsonigara987@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always building, always learning 🚀</i>
+</p>
